@@ -1,5 +1,4 @@
 import math
-from GetWeatherAPI import GetWeatherAPI  # ✅ Import should be near the top
 
 @ staticmethod
 def GetUserName(firstName, lastName):
